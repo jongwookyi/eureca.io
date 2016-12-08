@@ -23,7 +23,7 @@
     "url": "https://github.com/Ezelia/eureca.io"
   },
   "dependencies": {
-    "primus": ">= 2.1.0"
+    "primus": "6.0.5"
   },
   "engines": {
     "node": ">=0.10.20"
